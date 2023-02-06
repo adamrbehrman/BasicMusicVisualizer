@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "keyboard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AudioKit/Keyboard.git",
+      "state" : {
+        "revision" : "6d3f47eca1ac091a6aa764519ce8898195bb76fe",
+        "version" : "1.3.2"
+      }
+    },
+    {
+      "identity" : "tonic",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AudioKit/Tonic.git",
+      "state" : {
+        "revision" : "d9280b44489bb753c4a2ac7206142547f2a986cc",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
